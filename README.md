@@ -1,6 +1,6 @@
 [![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
-Gymnasium Take 5 tutorials — Learn helpful tips or tricks, in 5 minutes or less, on design and graphics, web design and development, UX design, or prototyping.
+[Gymnasium Take 5 tutorials](https://thegymnasium.com/take5) — Learn helpful tips or tricks, in 5 minutes or less, on design and graphics, web design and development, UX design, or prototyping.
 
 ---
 
