@@ -1,6 +1,6 @@
-[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](https://thegymnasium.com)
 
-[Gymnasium Take 5 tutorials](https://thegymnasium.com/take5) — Learn helpful tips or tricks, in 5 minutes or less, on design and graphics, web design and development, UX design, or prototyping.
+[Gymnasium Take 5 tutorials](https://thegymnasium.com/courses/take5) — Learn helpful tips or tricks, in 5 minutes or less, on design and graphics, web design and development, UX design, or prototyping.
 
 ---
 
@@ -18,4 +18,4 @@ Our courses are all self-paced and taught by experienced practitioners with a pa
 
 ### Career Opportunities
 
-Once you finish a course, you will be able to use your new skills in your current role, or use them to land a new job. **[We can even help with that!](http://aquent.com/find-work/?utm_source=thegymnasium&utm_medium=github&utm_campaign=readmejobs)**
+Once you finish a course, you will be able to use your new skills in your current role, or use them to land a new job. **[We can even help with that!](https://aquent.com/find-work/?utm_source=thegymnasium&utm_medium=github&utm_campaign=readmejobs)**
